@@ -411,6 +411,7 @@ describe('China UnionPay', function() {
     })(prefix);
   }
 
+
 });
 
 // describe('China UnionPay', function() {
