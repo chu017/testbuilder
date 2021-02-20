@@ -83,7 +83,6 @@ var detectNetwork = function(cardNumber) {
   || firstFourNum === '6333' || firstFourNum === '6759'
   && (digLength === 16 || digLength === 18 || digLength === 19) ) {
     return 'Switch';
-
   }
 
 
